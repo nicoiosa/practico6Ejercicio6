@@ -8,7 +8,6 @@ function App() {
   return (
     <Container className="my-5">
       <FormColor />
-      <Grid />
     </Container>
   );
 }
